@@ -205,7 +205,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="f8752246-b454-41b7-b433-c33d02074796">
-    <name>ВКС_СтоимостьЧасаРаботы</name>
+    <name>ВКМ_СтоимостьЧасаРаботы</name>
     <synonym>
       <key>ru</key>
       <value>Стоимость часа работы</value>
